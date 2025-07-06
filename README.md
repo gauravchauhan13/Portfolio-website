@@ -2,7 +2,11 @@
 
 A modern, responsive portfolio website built with React and Vite, showcasing my skills, projects, and experience as a developer.
 
-## 🌟 Features
+## � Live Demo
+
+**Visit the live portfolio: [https://portfolio-website-orpin-zeta-88.vercel.app/](https://portfolio-website-orpin-zeta-88.vercel.app/)**
+
+## �🌟 Features
 
 - **Responsive Design**: Optimized for all devices (mobile, tablet, desktop)
 - **Smooth Animations**: AOS (Animate On Scroll) library for engaging user experience

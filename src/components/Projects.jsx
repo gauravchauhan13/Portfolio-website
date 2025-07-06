@@ -23,7 +23,7 @@ export default function Projects() {
     {
       name: "Portfolio Website",
       desc: "Personal site built with React, Vite, and Bootstrap.",
-      link: "https://github.com/SU-Gaurav",
+      link: "https://github.com/SU-Gaurav/Portfolio-website",
       tech: ["React", "Vite", "Bootstrap"]
     }
   ];

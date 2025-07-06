@@ -1,0 +1,22 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="64" height="64" rx="12" fill="#1a1a1a"/>
+  
+  <!-- Code brackets -->
+  <path d="M16 20L12 32L16 44" stroke="#58a6ff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M48 20L52 32L48 44" stroke="#58a6ff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Initials GC -->
+  <text x="32" y="38" text-anchor="middle" fill="#58a6ff" font-family="Inter, sans-serif" font-size="18" font-weight="700">GC</text>
+  
+  <!-- Subtle glow effect -->
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge> 
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+</svg>
