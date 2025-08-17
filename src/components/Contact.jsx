@@ -50,7 +50,7 @@ export default function Contact() {
     {
       icon: <FaGithub size={20} />,
       name: "GitHub",
-      url: "https://github.com/SU-Gaurav",
+      url: "https://github.com/gauravchauhan13",
       color: "#ffffff"
     },
     {
