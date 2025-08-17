@@ -26,7 +26,7 @@ export default function About() {
   ];
 
   return (
-    <section className="py-5 bg-dark text-light" id="about">
+    <section className="py-5 text-light" id="about">
       <div className="container" data-aos="fade-up">
         <div className="row align-items-center">
           <div className="col-lg-6 mb-5 mb-lg-0">

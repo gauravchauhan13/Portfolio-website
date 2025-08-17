@@ -74,7 +74,7 @@ export default function Contact() {
   ];
 
   return (
-    <section className="py-5 bg-dark text-light" id="contact">
+    <section className="py-5 text-light" id="contact">
       <div className="container" data-aos="fade-up">
         <div className="text-center mb-5">
           <h2 className="fw-bold mb-3">

@@ -36,7 +36,7 @@ export default function Projects() {
   ];
 
   return (
-    <section className="py-5 bg-dark text-light" id="projects">
+    <section className="py-5 text-light" id="projects">
       <div className="container" data-aos="fade-up">
         <h2 className="fw-bold mb-5 text-center text-white">
           <span className="text-primary">Featured</span> Projects

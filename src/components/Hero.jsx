@@ -18,8 +18,6 @@ export default function Hero() {
     <section
       className="text-center py-5 position-relative overflow-hidden"
       style={{
-        background:
-          "linear-gradient(135deg, #0d1117 0%, #161b22 50%, #21262d 100%)",
         minHeight: "100vh",
         display: "flex",
         alignItems: "center",
