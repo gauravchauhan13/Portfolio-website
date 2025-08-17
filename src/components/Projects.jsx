@@ -26,6 +26,13 @@ export default function Projects() {
       link: "https://github.com/SU-Gaurav/Portfolio-website",
       tech: ["React", "Vite", "Bootstrap"]
     }
+    ,
+    {
+      name: "Leaderboard Game",
+      desc: "A leaderboard web app for tracking and displaying scores, built with React and Firebase.",
+      link: "https://github.com/gauravchauhan13/Leaderboard-",
+      tech: ["React", "Firebase", "JavaScript"]
+    }
   ];
 
   return (

@@ -187,3 +187,19 @@ section {
   background-size: 200px 100%;
   animation: shimmer 1.5s infinite;
 }
+.role-title {
+  font-size: 1.75rem;
+  font-weight: 700;
+  background: linear-gradient(45deg, #58a6ff, #1f6feb);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; /* key to make gradient show */
+  background-clip: text;
+  display: inline-block;
+  letter-spacing: 0.5px;
+  color: transparent !important; /* force remove bootstrap text color */
+}
+
+.role-title:hover {
+  text-shadow: 0 0 15px rgba(88, 166, 255, 0.5);
+  transition: text-shadow 0.3s ease;
+}
