@@ -163,7 +163,7 @@ export default function Hero() {
           {[
             {
               icon: <FaGithub size={24} />,
-              url: "https://github.com/SU-Gaurav",
+              url: "https://github.com/gauravchauhan13",
               label: "GitHub Profile",
             },
             {
